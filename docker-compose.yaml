@@ -16,13 +16,11 @@ services:
       - ENABLE_USER_PROMPT=true
       - OPENAI_API_KEY
       - ENABLE_CHECKPOINTS=true
+    volumes:
+      - ./:/jupyter
     command: [
       "python",
       "-m",
       "beaker_kernel.server.dev",
       "watch",
-      "--extra_watch_dir",
-      "/usr/local/share/beaker/corpuses/beaker_mira",
-      "--extra_watch_dir",
-      "/usr/local/lib/python3.10/site-packages/beaker_bunsen",
     ]
