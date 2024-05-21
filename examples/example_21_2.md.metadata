@@ -1,0 +1,8 @@
+{
+  "resource_d": "local:file:/home/matt/development/beaker/beaker-r-epitrix/pkg-examples/estimate_incubation.Rmd",
+  "source_uri": "file:/home/matt/development/beaker/beaker-r-epitrix/pkg-examples/estimate_incubation.Rmd",
+  "generated_at": "2024-05-21T16:07:41.937153",
+  "source_sha256_hash": "TODO",
+  "start_line": 74,
+  "stop_line": 81
+}

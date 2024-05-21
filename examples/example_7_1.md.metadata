@@ -1,0 +1,8 @@
+{
+  "resource_d": "rcran:rcran-package:epitrix/R/fit_discrete.R#epitrix",
+  "source_uri": "rcran-package:epitrix/R/fit_discrete.R#epitrix",
+  "generated_at": "2024-05-21T16:09:53.402318",
+  "source_sha256_hash": "TODO",
+  "start_line": 41,
+  "stop_line": 59
+}

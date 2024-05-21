@@ -1,0 +1,8 @@
+{
+  "resource_d": "rcran:rcran-package:epitrix/R/r_to_R0_Wallinga_Lipsitch.R#epitrix",
+  "source_uri": "rcran-package:epitrix/R/r_to_R0_Wallinga_Lipsitch.R#epitrix",
+  "generated_at": "2024-05-21T16:09:05.880128",
+  "source_sha256_hash": "TODO",
+  "start_line": 39,
+  "stop_line": 49
+}

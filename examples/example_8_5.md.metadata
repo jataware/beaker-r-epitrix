@@ -1,0 +1,8 @@
+{
+  "resource_d": "rcran:rcran-package:epitrix/R/final_size.R#epitrix",
+  "source_uri": "rcran-package:epitrix/R/final_size.R#epitrix",
+  "generated_at": "2024-05-21T16:10:55.343082",
+  "source_sha256_hash": "TODO",
+  "start_line": 73,
+  "stop_line": 76
+}

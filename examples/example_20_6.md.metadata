@@ -1,0 +1,8 @@
+{
+  "resource_d": "local:file:/home/matt/development/beaker/beaker-r-epitrix/pkg-examples/epitrix.Rmd",
+  "source_uri": "file:/home/matt/development/beaker/beaker-r-epitrix/pkg-examples/epitrix.Rmd",
+  "generated_at": "2024-05-21T16:07:36.647972",
+  "source_sha256_hash": "TODO",
+  "start_line": 158,
+  "stop_line": 169
+}
